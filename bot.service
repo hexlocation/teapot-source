@@ -1,5 +1,5 @@
 [Unit]
-Description=systemd service bestand voor discord robotje
+Description=systemd service file for teapot <3
 
 [Service]
 WorkingPath=/var/bot
