@@ -1,0 +1,7 @@
+{
+  "addcathook": "setcat.js",
+  "announce": "announcements.js",
+  "delcathook": "delete.js",
+  "help": "help.js",
+  "instacat": "instacat.js"
+}

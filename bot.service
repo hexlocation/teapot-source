@@ -1,0 +1,9 @@
+[Unit]
+Description=systemd service bestand voor discord robotje
+
+[Service]
+WorkingPath=/var/bot
+ExecStart=node index.js
+
+[Install]
+WantedBy=multi-user.target
