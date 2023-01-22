@@ -1,0 +1,7 @@
+{
+  "admins": ["696339037971021865", "736507120542941194"],
+  "token": "bot token",
+  "debug": false,
+  "debugToken": "debugging bot token",
+  "apikey":"the cat api key here"
+}
