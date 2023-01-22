@@ -21,8 +21,8 @@ To make the bot run on startup, do the following:
 Move the bot.service file to /etc/systemd/system  
 (`sudo mv bot.service /etc/systemd/system`)
 
-**Step 2**
+**Step 2.**  
 Run `sudo systemctl daemon-reload` to reload the systemd daemon
 
-**Step 3**
+**Step 3.**  
 Run `systemctl enable --now bot` to enable the bot on boot and start it now.
